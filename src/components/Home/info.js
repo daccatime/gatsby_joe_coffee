@@ -8,7 +8,7 @@ export default function info() {
       <div className="container">
         <Title title="our story"> </Title>
         <div className="row">
-          <div className=" .col-10.col-sm-8 mx-auto text-center">
+          <div className="col-10 col-sm-8 mx-auto text-center">
             <p className="lead text-muted mb-5">
               lorem100 "Sed ut perspiciatis unde omnis iste natus error sit
               voluptatem accusantium doloremque laudantium, totam rem aperiam,
